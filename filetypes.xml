@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="credentials" type="JSON" />
+      <mapping ext="traineddata" type="PLAIN_TEXT" />
+      <mapping ext="443" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
